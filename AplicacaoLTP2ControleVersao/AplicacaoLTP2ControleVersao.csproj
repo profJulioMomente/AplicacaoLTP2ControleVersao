@@ -91,6 +91,7 @@
     <Content Include="Content\font-awesome.min.css" />
     <Content Include="daniel.html" />
     <Content Include="fonts\fontawesome-webfont.svg" />
+    <Content Include="joao.html" />
     <Content Include="julio.html" />
     <Content Include="rafael.html" />
     <Content Include="Scripts\bootstrap.bundle.js" />
